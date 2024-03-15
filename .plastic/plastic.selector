@@ -1,0 +1,4 @@
+repository "MultiRacing@PrudiusVlad@cloud"
+  path "/"
+    br "/main"
+    co "/main"

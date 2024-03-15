@@ -1,0 +1,16 @@
+component Car_319d1a922b47d804fb9960cdc792d6fa_CarController_3897654430183329170 [id "153"]
+  maxSpeed Float [compression "None"]
+  accelerationMul Float [compression "None"]
+  turnMul Float [compression "None"]
+  driftMul Float [compression "None"]
+  inertionMul Float [compression "None"]
+  sideMovementForSkidmarks Float [compression "None"]
+  enabled Bool [bits "1"]
+  accelerationInput Float [compression "None"]
+  steeringInput Float [compression "None"]
+  rotationAngle Float [compression "None"]
+  velocityVsUp Float [compression "None"]
+
+component Car_319d1a922b47d804fb9960cdc792d6fa_Rigidbody2D_3118235588787588515 [id "154"]
+  velocity Vector2 [compression "None"]
+
